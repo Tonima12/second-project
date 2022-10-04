@@ -19,7 +19,7 @@ h1 {
 }
 
 .first-part {
-    width: 100%;
+    width: 90%;
     padding-left: 5%;
     text-align: justify;
     border-top: 80px;
@@ -48,7 +48,7 @@ h1 {
 }
 
 .part-two img {
-    width: 46%;
+    width: 43%;
     /*pic size*/
     padding-left: 35%;
     /*bam pas thake koto tuku dure jabe*/
@@ -68,4 +68,13 @@ h1 {
     background: url(images/shapes/7.png);
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.first-parts {
+    width: 90%;
+    padding-left: 5%;
+    text-align: justify;
+    border-top: 80px;
+    margin-top: 100px;
+    margin-right: 50px;
 }
