@@ -46,3 +46,26 @@ h1 {
     font-weight: 900;
     border-radius: 40px;
 }
+
+.part-two img {
+    width: 46%;
+    /*pic size*/
+    padding-left: 35%;
+    /*bam pas thake koto tuku dure jabe*/
+    text-align: justify;
+    border-top: 50px;
+    margin-top: 5px;
+    margin-right: 70px;
+    margin-bottom: 200px;
+    display: flex;
+}
+
+/*second part er full background*/
+.second-part {
+    height: 400px;
+    /*upore niche total size*/
+    padding: 20px;
+    background: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
